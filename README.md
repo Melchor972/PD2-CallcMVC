@@ -1,11 +1,21 @@
-# PD2-CallcMVC
+# PD3-CallcMVC
 Calculadora básica de 2 operaciones  
+
+# instrucciones-del-PD3
+Con base en las instrucciones de la sesión de hoy 10/Nov utilizar como base el ejemplo de la calculadora MVC.
+
+Enviar el URL donde se encuentra esta actividad que incluya:
+Documentación de lo implementado
+Código
+Diagrama de clases
+Video que explique la estrategia para incrementar las operaciones de la calculadora (suma, resta, etc). Mantener el patrón MCV.  Indicar qué ventajas o desventajas específicas hay si se considera el patrón de diseño Command. Si los argumentos indican que no es conveniente, indicar cuál sería la estrategia considerada para incrementar las operaciones de la calculadora, y las ventajas sobre el uso del patrón. Se podría considerar algún otro patrón? Video de máximo 5 minutos. Incluir el URL en el repo (asegurar que hay acceso)
+Mi trabajo
 
 # Video-explicativo-del-codigo
 Puedes ver la explicación detallada del programa en el siguiente enlace:
 
 
-Este es el PD2 de la clase de Porgramacion Orientada a Objetos(POO), incluye documentacion codigo requisitos y un diagrama de clases.
+Este es el PD3 de la clase de Porgramacion Orientada a Objetos(POO), incluye documentacion codigo requisitos y un diagrama de clases.
 
 # Diagrama-de-clases
 <img width="749" height="1055" alt="Untitled" src="https://github.com/user-attachments/assets/afeea0e1-e4ed-4108-a2b2-893bac83b9c7" />
