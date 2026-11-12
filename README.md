@@ -13,7 +13,7 @@ Mi trabajo
 
 # Video-explicativo-del-codigo
 Puedes ver la explicación detallada del programa en el siguiente enlace:
-
+https://alumnosuady-my.sharepoint.com/:v:/g/personal/a25216423_alumnos_uady_mx/IQAbv0wxTq2OTKuuDSpAAhXZAZgIXynhrZrI5-gORT_zWkc?e=WEfEfO
 
 Este es el PD3 de la clase de Porgramacion Orientada a Objetos(POO), incluye documentacion codigo requisitos y un diagrama de clases.
 
